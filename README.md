@@ -13,7 +13,7 @@ The project contains the following parts:
 1. A data set which is downloaded and stored in **./UCI HAR Dataset/** folder.
 2. An code book, **CodeBook.md** which describes the data sets, transformations and the operations.
 3. This README.md file with general information and source details.
-4. A R script **run_analysis.md** which does all the operations and transformations. This script downloads any files needed and creates a diretory structure.
+4. A R script **run_analysis.md** which does all the operations and transformations. This script downloads any files needed and creates a directory structure.
 5. A tidy data set is created an stored as a comma separated file. The name of the file is **tidyDataSet.txt**.
 
 ### Source:
